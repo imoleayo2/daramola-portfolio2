@@ -1,0 +1,47 @@
+h1{
+   background-color: darksalmon; color: white;
+    text-align: center; 
+}
+
+header{
+    background-color: antiquewhite; color:rgb(219, 144, 45);
+    border: 50px; margin: 10px; width: 900px; font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;font-style: oblique;
+
+    
+}
+
+img{
+    border: 100px solid antiquewhite;
+    border-radius: 1%;
+    align-items: center;
+}
+
+h2{
+    color:darkcyan;
+    text-align: center;
+}
+
+section{
+    border: bottom 1px solid darksalmon;
+    background-color: burlywood; margin: 10px; 
+    border: 50px solid antiquewhite; width: 900px;
+  font-family: 'Times New Roman', Times, serif;
+    font-size: medium; font-weight: 200; font-style:oblique;
+
+    
+} 
+
+nav {
+    padding: 5%;
+    width: 100%;
+    color: bisque;
+}
+
+a{
+    color:bisque ; text-align: center;
+}
+
+footer{
+    text-align: center; color: brown
+}
